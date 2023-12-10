@@ -1,3 +1,3 @@
 # React + Vite
 
-https://rapidapi.com/apidojo/api/flight-radar1"# radar" 
+https://rapidapi.com/apidojo/api/flight-radar1  
